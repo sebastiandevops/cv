@@ -3,16 +3,16 @@
 - company: Pragma
   position: DevOps Engineer
   duration: Sep, 2022 &mdash; Present
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Design and implement CI/CD pipelines for a technology migration project from on-premise installations to AWS cloud using Azure DevOps.</li><li>Implement Istio service mesh during an internal company development to enable cluster log visualization using Kiali.</li><li>Tools/Technologies&#58 Azure DevOps, AWS, Kubernetes.</li></ul></p>'
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Design and implement CI/CD pipelines for a technology migration project from on-premise installations to AWS cloud using Azure DevOps.</li><li>Implement Istio service mesh during an internal company development to enable cluster log visualization using Kiali.</li><li>Tools/Technologies&#58 Azure DevOps, AWS, Docker, Kubernetes.</li></ul></p>'
 
 # DevOps Engineer at Tech and Solve
 - company: Tech and Solve
   position: DevOps Engineer
   duration:  Jun, 2022 &mdash; Sept, 2022
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Implement CI/CD pipelines as templates during the production deployment of two applications through the Azure cloud.</li><li>Tools/Technologies&#58 Azure DevOps, Azure Cloud, SonarQube.</li></ul></p>'
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Implement CI/CD pipelines as templates during the production deployment of two applications through the Azure cloud.</li><li>Tools/Technologies&#58 Azure DevOps, Azure Cloud, Docker, Kubernetes, SonarQube.</li></ul></p>'
 
 # DevOps Engineer at Pragma
 - company: Pragma
   position: DevOps Engineer
   duration:   Apr, 2021  &mdash; Jun, 2022
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Implement CI/CD pipelines as templates during the production deployment of two applications through the Azure cloud.</li><li>Tools/Technologies&#58 Azure DevOps, Azure Cloud, SonarQube.</li></ul></p>'
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Design and implement CI/CD pipelines for a technology migration project from on-premise installations to AWS cloud using Azure DevOps.</li><li>Implement CI/CD pipeline for internal company developments using Jenkins.</li><li>Tools/Technologies&#58 Azure DevOps, Jenkins, AWS, SonarQube.</li></ul></p>'
