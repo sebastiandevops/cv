@@ -2,6 +2,11 @@
 {% if site.resume_social_links %}
 <ul class="icon-links">
 
+  <!-- Download link -->
+  {% if site.resume_social_links.resume_download_url %}
+  <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_download_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-download.html %}</a></li>
+  {% endif %}
+
   <!-- GitHub link -->
   {% if site.resume_social_links.resume_github_url %}
   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_github_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-github.html %}</a></li>
@@ -11,7 +16,7 @@
   {% if site.resume_social_links.resume_twitter_url %}
   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_twitter_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-twitter.html %}</a></li>
   {% endif %}
-  
+
   <!-- Medium link -->
   {% if site.resume_social_links.resume_medium_url %}
   <li class="icon-link-item">
