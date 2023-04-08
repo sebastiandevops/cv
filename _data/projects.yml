@@ -6,11 +6,11 @@
   role: Developer
   duration: 2023 &mdash; Present
   # url: "#"
-  description: A Neovim IDE config designed from scratch.
+  description: <p align="justify">A Neovim IDE config designed from scratch.</p>
 
 # Majority Report Medellín
 - project: Majority Report Medellín
   role: Developer
   duration: 2021
   # url: "#"
-  description: Majority Report is an academic initiative that arises with the purpose of creating an app where users can interactively view crime rates in Medellin, Colombia.
+  description: <p align="justify">Majority Report is an academic initiative that arises with the purpose of creating an app where users can interactively view crime rates in Medellin, Colombia.</p>
