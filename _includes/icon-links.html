@@ -2,6 +2,11 @@
 {% if site.resume_social_links %}
 <ul class="icon-links">
 
+  <!-- Spanish version link -->
+  {% if site.resume_social_links.resume_spanish_url %}
+  <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_spanish_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-es.html %}</a></li>
+  {% endif %}
+
   <!-- Download link -->
   {% if site.resume_social_links.resume_download_url %}
   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_download_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-download.html %}</a></li>
