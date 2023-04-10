@@ -21,7 +21,7 @@
         <a href="https://www.linux.org" title="GNU/Linux"><img class="img" src="images/linux.svg"></a>
         <a href="https://www.python.org" title="Python"><img class="img" src="images/python.svg"></a>
         <a href="https://www.jenkins.io" title="Jenkins"><img class="img" src="images/jenkins.svg"></a>
-        <a href="https://www.docker.com" title="Docker"><img class="img" src="images/git.svg"></a>
+        <a href="https://www.docker.com" title="Docker"><img class="img" src="images/docker.svg"></a>
         <a href="https://kubernetes.io" title="Kubernetes"><img class="img" src="images/kubernetes.svg"></a>
         <a href="https://www.sonarsource.com/products/sonarqube/" title="SonarQube"><img class="img" src="images/sonarqube.svg"></a>
         <a href="https://www.terraform.io" title="Terraform"><img class="img" src="images/terraform.svg"></a>
