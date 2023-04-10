@@ -1,4 +1,29 @@
 # Skills
 # Organizational leadership
 - skill: Tools/Technologies&#58
-  description: '<div style="text-align:left;"><pre class="tab"><a href="https://azure.microsoft.com/en-us/products/devops" title="Azure DevOps"><img src="images/azure-devops.svg" width="50" height="50"></a> <a href="https://aws.amazon.com/?nc1=h_ls" title="AWS"><img src="images/aws.svg" width="50" height="50"></a> <a href="https://git-scm.com" title="Git"><img src="images/git.svg" width="50" height="50"></a> <a href="https://www.linux.org" title="GNU/Linux"><img src="images/linux.svg" width="50" height="50"></a> <a href="https://www.python.org" title="Python"><img src="images/python.svg" width="50" height="50"></a> <a href="https://www.jenkins.io" title="Jenkins"><img src="images/jenkins.svg" width="50" height="50"></a> <a href="https://www.docker.com" title="Docker"><img src="images/git.svg" width="50" height="50"></a> <a href="https://kubernetes.io" title="Kubernetes"><img src="images/kubernetes.svg" width="50" height="50"></a> <a href="https://www.sonarsource.com/products/sonarqube/" title="SonarQube"><img src="images/sonarqube.svg" width="50" height="50"></a> <a href="https://www.terraform.io" title="Terraform"><img src="images/terraform.svg" width="50" height="50"></a> <a href="https://jmeter.apache.org" title="Apache JMeter"><img src="images/apachejmeter.svg" width="50" height="50"></a></pre></div>'
+  description: |
+      <style>
+        .img {
+          width: 48px;
+          height: 48px;
+          margin-top: 20px;
+          margin-right: 20px;   /* Horizontal Space */
+          margin-bottom: 5px;  /* Vertical Space */
+        }
+        div{
+          text-align: justify;
+        }
+      </style>
+      <div>
+        <a href="https://azure.microsoft.com/en-us/products/devops" title="Azure DevOps"><img class="img" src="images/azure-devops.svg"></a>
+        <a href="https://aws.amazon.com/?nc1=h_ls" title="AWS"><img class="img" src="images/aws.svg"></a>
+        <a href="https://git-scm.com" title="Git"><img class="img" src="images/git.svg"></a>
+        <a href="https://www.linux.org" title="GNU/Linux"><img class="img" src="images/linux.svg"></a>
+        <a href="https://www.python.org" title="Python"><img class="img" src="images/python.svg"></a>
+        <a href="https://www.jenkins.io" title="Jenkins"><img class="img" src="images/jenkins.svg"></a>
+        <a href="https://www.docker.com" title="Docker"><img class="img" src="images/git.svg"></a>
+        <a href="https://kubernetes.io" title="Kubernetes"><img class="img" src="images/kubernetes.svg"></a>
+        <a href="https://www.sonarsource.com/products/sonarqube/" title="SonarQube"><img class="img" src="images/sonarqube.svg"></a>
+        <a href="https://www.terraform.io" title="Terraform"><img class="img" src="images/terraform.svg"></a>
+        <a href="https://jmeter.apache.org" title="Apache JMeter"><img class="img" src="images/apachejmeter.svg"></a>
+      </div>
