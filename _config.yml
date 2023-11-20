@@ -20,7 +20,7 @@ resume_contact_email:           "sebasvalencia726@gmail.com"
 resume_contact_telephone:       "+57 3172933325"
 resume_contact_address:         "Barranquilla"
 
-resume_header_contact_info:     "+57 3172933325 • sebasvalencia726@gmail.com"
+resume_header_contact_info:     "Barranquilla, Colombia • +57 3172933325 • sebasvalencia726@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p align='justify'>I am a DevOps Engineer with experience designing and implementing CI/CD pipelines using Azure DevOps. I have experience in implementing all stages of the DevOps cycle, including code integration, static analysis, dependency checks, compilation, packaging, and artifact repository publication. I have also configured the deployment stages in development, certification, and production environments, implemented acceptance, performance, and end-to-end testing, and managed the rollback stage.</p>"
