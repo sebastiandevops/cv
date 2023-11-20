@@ -26,4 +26,6 @@
         <a href="https://www.sonarsource.com/products/sonarqube/" title="SonarQube"><img class="img" src="images/sonarqube.svg"></a>
         <a href="https://www.terraform.io" title="Terraform"><img class="img" src="images/terraform.svg"></a>
         <a href="https://jmeter.apache.org" title="Apache JMeter"><img class="img" src="images/apachejmeter.svg"></a>
+        <a href="https://azure.microsoft.com/en-us/get-started/azure-portal" title="Microsoft Azure Portal"><img class="img" src="images/azure-cloud.svg"></a>
+        <a href="https://sonarcloud.io/" title="SonarCloud"><img class="img" src="images/sonarcloud.svg"></a>
       </div>

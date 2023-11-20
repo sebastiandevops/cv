@@ -3,7 +3,7 @@
 - company: Pragma
   position: DevOps Engineer
   duration: Sep, 2022 &mdash; Present
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Design and implement CI/CD pipelines for a technology migration project from on-premise installations to AWS cloud using Azure DevOps.</li><li>Implement Istio service mesh during an internal company development to enable cluster log visualization using Kiali.</li><li>Tools/Technologies&#58 Azure DevOps, AWS, Docker, Kubernetes.</li></ul></p>'
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Design and implementation of CI/CD Azure DevOps Pipelines to streamline the development, testing, and deployment processes for a Mortgage Origination System project. This project is part of a larger initiative for a US-based holding company, delivering captive, private label business and technology services to clients.</li><li>Responsible for managing Infrastructure as Code (IaC) on the Azure Cloud platform, including the provisioning and ongoing maintenance of resources. Collaborate closely with a cross-functional team to ensure seamless integration of CI/CD pipelines with development, testing, and production environments.</li><li>Design and implement CI/CD pipelines for a technology migration project from on-premise installations to AWS cloud using Azure DevOps.</li><li>Implement Istio service mesh during an internal company development to enable cluster log visualization using Kiali.</li><li>Tools/Technologies&#58 Azure DevOps, AWS, Docker, Kubernetes.</li></ul></p>'
 
 # DevOps Engineer at Tech and Solve
 - company: Tech and Solve
