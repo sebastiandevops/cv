@@ -1,8 +1,15 @@
 # Jobs
+#
+# DevOps Engineer at Globant
+- company: Globant
+  position: DevOps Engineer
+  duration: Feb, 2024 &mdash; Present
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Tools/Technologies&#58 Azure DevOps, Azure Cloud, Ansible, SonarQube.</li></ul></p>'
+
 # DevOps/SRE Engineer at Pragma
 - company: Pragma
   position: DevOps/SRE Engineer
-  duration: Jul, 2023 &mdash; Present
+  duration: Jul, 2023 &mdash; Feb, 2024
   summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Design and implementation of CI/CD Azure DevOps Pipelines to streamline the development, testing, and deployment processes for a Mortgage Origination System project. This project is part of a larger initiative for a US-based holding company, delivering captive, private label business and technology services to clients.</li><li>Responsible for managing Infrastructure as Code (IaC) on the Azure Cloud platform, including the provisioning and ongoing maintenance of resources. Collaborate closely with a cross-functional team to ensure seamless integration of CI/CD pipelines with development, testing, and production environments.</li><li>Tools/Technologies&#58 Azure DevOps, Azure Cloud, Docker, SonarCloud.</li></ul></p>'
 
 # DevOps Engineer at Pragma
