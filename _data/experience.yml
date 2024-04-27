@@ -4,7 +4,7 @@
 - company: Globant
   position: DevOps Engineer
   duration: Feb, 2024 &mdash; Present
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Develop validation and remediation processes to automatically identify, address, and resolve incidents following cloud resources'' defined quality and security policies.</li><li>Tools/Technologies&#58 Azure DevOps, Azure Cloud, Ansible, SonarQube.</li></ul></p>'
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Develop validation and remediation processes to automatically identify, address, and resolve incidents following cloud resources'' defined quality and security policies.</li><li>Tools/Technologies&#58 Azure DevOps, Azure Cloud, PowerShell, Python, Rego query language.</li></ul></p>'
 
 # DevOps/SRE Engineer at Pragma
 - company: Pragma
